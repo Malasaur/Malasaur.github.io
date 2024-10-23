@@ -1,15 +1,14 @@
 ---
-title: My Awesome Blog
+title: Home
+layout: default
 ---
-
-<link rel="stylesheet" type="text/css" href="styles.css">
 
 # Welcome to My Blog
 
-This is a blog post written in Markdown, and it's styled using custom CSS. 
+This is my blog where I write cool stuff about technology, sci-fi, and programming.
 
 Here’s a code snippet:
 
 ```python
-print("Hello, Markdown!")
+print("Hello, Jekyll and Markdown!")
 ```
